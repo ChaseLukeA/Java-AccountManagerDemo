@@ -1,4 +1,11 @@
-Account Manager WIP
+#Account Manager WIP
+Created by Luke A Chase
+
+chase.luke.a@gmail.com
+
+Copyright 2015
+
+Final submission for class project in my first Java web class
 
 Tried putting the database in WebContent/assets/db and accessing
 localhost:8080/AccountManager/assets/db/accounts.sqlite as my
